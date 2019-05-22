@@ -2,11 +2,13 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://agholamnia.github.io/contactmanager",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "axios": "^0.18.0",
     "bootstrap": "^4.1.2",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^1.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^4.3.1",
@@ -14,6 +16,7 @@
     "uuid": "^3.3.2"
   },
   "scripts": {
+	"deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

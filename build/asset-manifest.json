@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/contactmanager/static/css/main.36497136.chunk.css",
+    "main.js": "/contactmanager/static/js/main.baa05061.chunk.js",
+    "main.js.map": "/contactmanager/static/js/main.baa05061.chunk.js.map",
+    "runtime~main.js": "/contactmanager/static/js/runtime~main.884ecd02.js",
+    "runtime~main.js.map": "/contactmanager/static/js/runtime~main.884ecd02.js.map",
+    "static/css/2.be9e7677.chunk.css": "/contactmanager/static/css/2.be9e7677.chunk.css",
+    "static/js/2.9313f830.chunk.js": "/contactmanager/static/js/2.9313f830.chunk.js",
+    "static/js/2.9313f830.chunk.js.map": "/contactmanager/static/js/2.9313f830.chunk.js.map",
+    "index.html": "/contactmanager/index.html",
+    "precache-manifest.41ff3d2ff1614745a65265d864b23346.js": "/contactmanager/precache-manifest.41ff3d2ff1614745a65265d864b23346.js",
+    "service-worker.js": "/contactmanager/service-worker.js",
+    "static/css/2.be9e7677.chunk.css.map": "/contactmanager/static/css/2.be9e7677.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/contactmanager/static/css/main.36497136.chunk.css.map",
+    "static/media/font-awesome.css": "/contactmanager/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}

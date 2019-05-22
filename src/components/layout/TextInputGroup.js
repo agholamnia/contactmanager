@@ -25,18 +25,9 @@ const TextInputGroup = ({
       {value === "" ? (
         <div className="invalid-feedback">{name} is required</div>
       ) : (
-        <div className="valid-feedback">{name} is valid now</div>
+        <div className="valid-feedback" />
       )}
-      {value.length === 11 ? (
-        <div
-          style={{ fontSize: "12px", padding: "4px" }}
-          className="text-success"
-        >
-          phone number is valid
-        </div>
-      ) : (
-        message
-      )}
+      {value.length === 11 ? "" : message}
     </div>
   );
 };
